@@ -19,7 +19,7 @@
 <p>👩🏻‍🔬Exploratory Data Analysis</p>
 <p>📐Machine Learning Algorithms: tree-based, distance-based</p>
 <p>🎯Artificial Neural Nets (still I'm learning..)</p>
-<p>📜Agile Methodologies: Scrum, Kanban, Lean, Scrumban, XP, and many more. </p>
+<p>📜Agile Methodologies: Scrum, Kanban, XP, Lean, Scrumban </p>
 
 
 ### Fun Fact
