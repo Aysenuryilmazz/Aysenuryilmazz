@@ -31,4 +31,4 @@
 ### Other than Work
 
 <p>I'm a professional volleyball player since the primary school years. </p>
-<p>Also, I'm an fancier to play violin in western style(it's 1000 times harder than the guitar)</p>
+<p>Also, I'm an fancier to play violin in western style(it's 1000 times harder than the guitar :)</p>
