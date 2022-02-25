@@ -22,10 +22,13 @@
 <p>📜Agile Methodologies: Scrum, Kanban, XP, Lean, Scrumban </p>
 
 
-### Fun Fact
+### Fun Fact ☕📖
 ***
 <p>If I have a good book and a good cup of coffee with me, then nothing makes me bored. </p>
 <p>Maybe, that's why I had been aspired to be an author when I was kid :) </p>
+
+
+
 
 
 ### Other than Work
