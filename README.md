@@ -5,6 +5,7 @@
 <p>I really am into coding in Python. Luckily in recent months, I've found an opportunity to learn more </p>
 <p>about Databases(esp Oracle-12c) and use more SQL(in fact, daily :d) </p>
 
+
 ### Skills 
 *** 
 <p>📚Data Warehouse concepts </p>
@@ -29,5 +30,7 @@
 
 ### Other than Work
 ***
-<p>I'm a professional volleyball player since the primary school years. </p>
-<p>Also, I'm an fancier to play violin in western style(it's 1000 times harder than the guitar :)</p>
+<p>🏐I'm a professional volleyball player since the primary school years. </p>
+<p>🎼Also, I'm an fancier to play violin in western style(it's 1000 times harder than the guitar :)</p>
+<p>🎭In all of my school years, I had been involved in a theatre team.
+
