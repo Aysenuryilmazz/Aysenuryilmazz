@@ -7,7 +7,7 @@ about Databases(esp Oracle-12c) and use more SQL(in fact, daily :d)
 
 ## Skills 
 
-- Data Warehouse 
+- Data Warehouse concepts
 - Performance tuning of Stored procedures 
 - Oracle 12c ^ PL/SQL 
 - SAP Power Designer
