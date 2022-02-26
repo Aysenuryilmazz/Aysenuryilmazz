@@ -19,7 +19,7 @@
 <p>🎨Data Visualization w/ matplotlib, seaborn, ggplot // QlikSense, Tableau</p>
 <p>👩🏻‍🔬Exploratory Data Analysis</p>
 <p>📐Machine Learning Algorithms: tree-based, distance-based</p>
-<p>🎯Artificial Neural Nets (still learning..)</p>
+<p>🎯Artificial Neural Nets </p>
 <p>📜Agile Methodologies: Scrum, Kanban, XP, Lean, Scrumban </p>
 
 
