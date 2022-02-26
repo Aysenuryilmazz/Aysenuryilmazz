@@ -14,6 +14,7 @@
 <p>📌SAP Power Designer</p>
 <p>📌SAP Information Design Tool</p>
 <p>⏰Atomic for scheduling of SP's</p>
+<p>📌Languages: Python, JAVA, C#, C, R</p>
 <p>🃏Data Extraction -> Cleaning -> Transformation</p>
 <p>🎨Data Visualization w/ matplotlib, seaborn, ggplot // QlikSense, Tableau</p>
 <p>👩🏻‍🔬Exploratory Data Analysis</p>
