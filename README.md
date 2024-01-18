@@ -1,5 +1,5 @@
 ## Hi 👋 my name is Aysenur
-<p> 🌱  I am currently working at Ford Otosan where is the leader of Turkey's automotive industry as a senior data analyst & engineer. </p>
+<p> 🌱  I am currently working at Ford Otosan where is the leader of Turkey's automotive industry company as a senior data analyst & engineer. </p>
 <p> ⚡ I am passionate about data </p>
 <p> 📝 I am aiming to read one article about per week starting from 2024 Jan </p>
 
