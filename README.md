@@ -1,7 +1,7 @@
-## Hi 👋 I'm Aysenur
-<p> I am currently working at Ford Otosan where is the leader of Turkey's automotive industry as a senior data analyst & engineer. </p>
-<p> I am passionate about data </p>
-<p> I am aiming to read one article about per week starting from 2024 Jan </p>
+## Hi 👋 my name is Aysenur
+<p> 🌱  I am currently working at Ford Otosan where is the leader of Turkey's automotive industry as a senior data analyst & engineer. </p>
+<p> ⚡ I am passionate about data </p>
+<p> 📝 I am aiming to read one article about per week starting from 2024 Jan </p>
 
 
 
@@ -13,13 +13,15 @@
 <p>📌SAP Power Designer</p>
 <p>📌SAP Information Design Tool</p>
 <p>⏰Atomic for scheduling of SP's</p>
-<p>📌Languages: Python, JAVA, C#, C, R</p>
+<p>📌Languages: Python, JAVA, C#, C, R </p>
 <p>🃏Data Extraction -> Cleaning -> Transformation</p>
-<p>🎨Data Visualization w/ matplotlib, seaborn, ggplot // QlikSense, Tableau</p>
+<p>🎨Data Visualization w/ Tableau, QlikSense </p>
+<p>🎨Data Visualization w/ matplotlib, seaborn, ggplot </p>
 <p>👩🏻‍🔬Exploratory Data Analysis</p>
 <p>📐Machine Learning Algorithms: tree-based, distance-based</p>
 <p>🎯Artificial Neural Nets </p>
 <p>📜Agile Methodologies: Scrum, Kanban, XP, Lean, Scrumban </p>
+<p>🎯Data Governance </p>
 
 
 ### Fun Fact ☕📖
